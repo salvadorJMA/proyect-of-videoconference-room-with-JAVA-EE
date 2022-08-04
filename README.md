@@ -11,4 +11,4 @@ from Google Chrome or Firefox
 
 ### Author: Salvador Jesús Megías Andreu
 ### Email: salvadorjmegias@gmail.com
-### University Email: salvadorjesus@gmail.com
+### University Email: salvadorjesus@correo.ugr.es
