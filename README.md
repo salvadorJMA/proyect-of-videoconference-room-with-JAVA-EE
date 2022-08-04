@@ -10,4 +10,5 @@ And then launch two instances of https://localhost:443
 from Google Chrome or Firefox
 
 ### Author: Salvador Jesús Megías Andreu
-### Email: s.megias@ostfalia.de
+### Email: salvadorjmegias@gmail.com
+### University Email: salvadorjesus@gmail.com
